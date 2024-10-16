@@ -12,6 +12,7 @@ This is a camera app that can either continuously detects hand landmarks and cla
 
 ### Technologies involved
 - Kotlin
+- Java
 - TensorFlow
 
 ### Collaborators
@@ -22,4 +23,5 @@ This is a camera app that can either continuously detects hand landmarks and cla
 ### Reference
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/android)
 - [MediaPipe - Hand Gesture Recognizer](https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples/gesture_recognizer/android)
-  ![gesture recognition demo](gesturerec.gif?raw=true "Gesture Recognition Demo")
+
+![gesture recognition demo](gesturerec.gif?raw=true "Gesture Recognition Demo")
