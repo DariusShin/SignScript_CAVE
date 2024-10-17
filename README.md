@@ -10,16 +10,19 @@ This application should be run on a physical Android device to take advantage of
 
 This is a camera app that can either continuously detects hand landmarks and classifies gestures (gesture name and confidence level) from camera frames seen by your device's front camera, an image, or a video from the device's gallery using a custom **task** file.
 
+---
 ### Technologies involved
 - Kotlin
 - Java
 - [TensorFlow](https://www.tensorflow.org/)
 
+---
 ### Collaborators
 1. [@waihauuuuu](https://github.com/waihauuuuu)
 2. [@yassinsorkaty](https://github.com/yassinsorkaty)
 3. [@yihong8803](https://github.com/yihong8803)
 
+---
 ### Reference
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/android)
 - [MediaPipe - Hand Gesture Recognizer](https://github.com/google-ai-edge/mediapipe-samples/tree/main/examples/gesture_recognizer/android)
