@@ -13,12 +13,12 @@ This is a camera app that can either continuously detects hand landmarks and cla
 ### Technologies involved
 - Kotlin
 - Java
-- TensorFlow
+- [TensorFlow](https://www.tensorflow.org/)
 
 ### Collaborators
 1. [@waihauuuuu](https://github.com/waihauuuuu)
 2. [@yassinsorkaty](https://github.com/yassinsorkaty)
-3. [@]
+3. [@yihong8803](https://github.com/yihong8803)
 
 ### Reference
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/android)
